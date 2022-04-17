@@ -29,7 +29,7 @@ CVPR 2022 (Poster)
 
 ### ADE20K
 
-| model        | Resolution | FLOPs | #params. | mIoU | mIoU (ms+flip) | FPS  | download                                                     |
+| backbone     | Resolution | FLOPs | #params. | mIoU | mIoU (ms+flip) | FPS  | download                                                     |
 | ------------ | ---------- | ----- | -------- | ---- | -------------- | ---- | ------------------------------------------------------------ |
 | ViT-Ti/16    | 512x512    | 3.9G  | 5.8M     | 42.1 | 43.1           | 38.9 | [[model]](https://drive.google.com/file/d/1sq3g3JcQ2NSJch-MvlvvnHFFeN-MU_DE/view?usp=sharing) |
 | ViT-S/16     | 512x512    | 15G   | 22M      | 47.6 | 48.5           | 32.1 | [[model]](https://drive.google.com/file/d/1pJD4-xRiVj36SplzNhonIuNHd82A05GX/view?usp=sharing) |
@@ -40,7 +40,7 @@ CVPR 2022 (Poster)
 
 ### Cityscapes
 
-| model     | Resolution | FLOPs | #params. | mIoU | mIoU (ms+flip) | download                                                     |
+| backbone  | Resolution | FLOPs | #params. | mIoU | mIoU (ms+flip) | download                                                     |
 | --------- | ---------- | ----- | -------- | ---- | -------------- | ------------------------------------------------------------ |
 | ViT-Ti/16 | 768x768    | 69G   | 6M       | 76.5 | 77.7           | [[model]](https://drive.google.com/file/d/1N4Ef8kfMeAGhcI3JLoPGd_XfBBArdF8Y/view?usp=sharing) |
 | ViT-S/16  | 768x768    | 270G  | 23M      | 79.8 | 81.5           | [[model]](https://drive.google.com/file/d/11GBWhCVAXEAO_iS_MFEecndK_IF2ik4Y/view?usp=sharing) |
