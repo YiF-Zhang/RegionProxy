@@ -11,9 +11,11 @@
 
 *Yifan Zhang, [Bo Pang](https://bopang1996.github.io/), [Cewu Lu](https://mvig.sjtu.edu.cn/)*
 
-CVPR 2022 (Poster)
+CVPR 2022 (Poster) [[arXiv]](https://arxiv.org/abs/2203.14043)
 
 ## Installation
+
+*Note: recommend using the **exact version** of the packages to avoid running issues.*
 
 1. Install PyTorch 1.7.1 and torchvision 0.8.2 following the [official guide](https://pytorch.org/get-started/locally/).
 
@@ -35,7 +37,7 @@ CVPR 2022 (Poster)
 | ViT-S/16     | 512x512    | 15G   | 22M      | 47.6 | 48.5           | 32.1 | [[model]](https://drive.google.com/file/d/1pJD4-xRiVj36SplzNhonIuNHd82A05GX/view?usp=sharing) |
 | R26+ViT-S/32 | 512x512    | 16G   | 36M      | 47.8 | 49.1           | 28.5 | [[model]](https://drive.google.com/file/d/1n51emyE6EWAuoBq_P8cViFtNmf9dDxzV/view?usp=sharing) |
 | ViT-B/16     | 512x512    | 59G   | 87M      | 49.8 | 50.5           | 20.1 | [[model]](https://drive.google.com/file/d/1PMVQv8cvaZmV16ARdbuQSv6-3DDeLXPy/view?usp=sharing) |
-| R50+ViT-L/32 | 512x512    | 82G   | 323M     | 51.0 | 51.7           | 12.7 | [[model]](https://drive.google.com/file/d/1Kk0ABYbMOwvomrU4FaDl4Ban2XBhcxjU/view?usp=sharing) |
+| R50+ViT-L/32 | 640x640    | 82G   | 323M     | 51.0 | 51.7           | 12.7 | [[model]](https://drive.google.com/file/d/1Kk0ABYbMOwvomrU4FaDl4Ban2XBhcxjU/view?usp=sharing) |
 | ViT-L/16     | 640x640    | 326G  | 306M     | 52.9 | 53.4           | 6.6  | [[model]](https://drive.google.com/file/d/1t6Un6m-1xdoir33TG7IAiilaLamgioFZ/view?usp=sharing) |
 
 ### Cityscapes
